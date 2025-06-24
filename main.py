@@ -16,7 +16,7 @@ def main():
         elif choice == "3":
             print("こんばんは")
         elif choice == "4":
-            print("隠れキャラです")
+            print("ミャクミャクの名前の由来知っているかい？")
         elif choice == "q":
             print("プログラムを終了します。")
             break
