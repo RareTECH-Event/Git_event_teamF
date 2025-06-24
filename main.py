@@ -4,7 +4,7 @@ def main():
         print("1: ココナッツ")
         print("2: タイキ")
         print("3: roku")
-        print("4: パンダ")
+        print("4: ミャクミャク")
         print("q: 終了")
 
         choice = input("> ")
@@ -16,7 +16,7 @@ def main():
         elif choice == "3":
             print("こんばんは")
         elif choice == "4":
-            print("中国にかえります")
+            print("ミャクミャクの名前の由来知っているかい？")
         elif choice == "q":
             print("プログラムを終了します。")
             break
