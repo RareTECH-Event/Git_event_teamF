@@ -4,6 +4,7 @@ def main():
         print("1: ここなっつ")
         print("2: タイキ")
         print("3: roku")
+        print("4: ミャクミャク")
         print("q: 終了")
 
         choice = input("> ")
@@ -14,6 +15,8 @@ def main():
             print("なにか用ですか？")
         elif choice == "3":
             print("こんばんは")
+        elif choice == "4":
+            print("隠れキャラです")
         elif choice == "q":
             print("プログラムを終了します。")
             break
